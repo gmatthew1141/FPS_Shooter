@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 4e0685790d45b2f4785602a4c8e612a4
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Fondamento
+  fontNames:
+  - Fondamento
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: d8041db87420c1744a4efc0fcf08d7a1, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
